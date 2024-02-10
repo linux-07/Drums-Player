@@ -1,4 +1,4 @@
-# Keyboard Sound Player
+# Drums Player
 
 This is a simple web application that plays sounds when keys are pressed or clicked. Each key corresponds to a specific sound, and pressing the key triggers the playback of the associated sound.
 
